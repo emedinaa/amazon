@@ -1,4 +1,4 @@
-# amazon
+# Amazon AWS
 Getting started with Amazon Web Services (AWS)
 
 ## Overview
