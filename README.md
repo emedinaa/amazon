@@ -6,7 +6,7 @@ Amazon Web Services(AWS) allows us create instances of computers on the cloud, w
 In this repository, I share my experiences in the use of AWS. 
 
 ## Samples
-This repository contain samples about to use the AWS
+This repository contains samples about to use the AWS
 
 - Create a new istance in AWS
 
